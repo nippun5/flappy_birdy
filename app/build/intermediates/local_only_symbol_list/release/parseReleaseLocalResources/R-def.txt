@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color amber_accent
+color black
+color forest_deep
+color forest_light
+color forest_mid
+color ground_dark
+color ground_green
+color ic_launcher_background
+color sky_bottom
+color sky_top
+color soil_brown
+color trunk_brown
+color trunk_shade
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_monochrome
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.FlappyBirdy
+xml backup_rules
+xml data_extraction_rules

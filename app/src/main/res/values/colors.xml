@@ -1,0 +1,17 @@
+<resources>
+    <!-- Core brand palette: forest green + sky blue -->
+    <color name="sky_top">#4FC3F7</color>
+    <color name="sky_bottom">#B3E5FC</color>
+    <color name="forest_deep">#1B5E20</color>
+    <color name="forest_mid">#2E7D32</color>
+    <color name="forest_light">#66BB6A</color>
+    <color name="trunk_brown">#5D4037</color>
+    <color name="trunk_shade">#3E2723</color>
+    <color name="soil_brown">#4E342E</color>
+    <color name="ground_green">#7CB342</color>
+    <color name="ground_dark">#558B2F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1B1B1B</color>
+    <color name="amber_accent">#FFC107</color>
+    <color name="ic_launcher_background">#1565C0</color>
+</resources>
